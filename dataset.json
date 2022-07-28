@@ -94,9 +94,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Preocupación entre las personas vacunadas con AstraZeneca: \"Nos han utilizado como experimento... ¿qué nos han metido?\"",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/preocupacion-entre-las-personas-vacunadas-con-astrazeneca-nos-han-utilizado-como-experimento-que-nos-han-metido/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/preocupacion-entre-las-personas-vacunadas-con-astrazeneca-nos-han-utilizado-como-experimento-que-nos-han-metido/] \n",
+        "VALUE": "Unreliable"
     },
     "1": {
         "DATA": {
@@ -193,9 +192,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La mejor dieta del mundo: Adelgazar comiendo jamón y vino",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "2": {
         "DATA": {
@@ -292,9 +290,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Qué curioso lo del Reino Unido: Son los primeros del mundo en vacunarse y ahora sufren una variante del virus más contagiosa y más letal; raro, ¿no?",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "3": {
         "DATA": {
@@ -391,9 +388,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Colombia recibió este sábado nuevo lote de 280.800 vacunas de Pfizer, confirma Presidente Duque",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/colombia-recibio-este-sabado-nuevo-lote-de-280-800-vacunas-de-pfizer-confirma-presidente-duque/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/colombia-recibio-este-sabado-nuevo-lote-de-280-800-vacunas-de-pfizer-confirma-presidente-duque/] \n",
+        "VALUE": "Reliable"
     },
     "4": {
         "DATA": {
@@ -490,9 +486,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Cataluña citará masivamente a los mayores de 70 años para la vacuna a partir de la próxima semana",
-        "URLS": "Source[https://www.20minutos.es/noticia/4649970/0/cataluna-citara-masivamente-mayores-70-anos-vacuna-coronavirus-proxima-semana/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4649970/0/cataluna-citara-masivamente-mayores-70-anos-vacuna-coronavirus-proxima-semana/]\n",
+        "VALUE": "Reliable"
     },
     "5": {
         "DATA": {
@@ -589,9 +584,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Cataluña, a las puertas de una cuarta ola con un aumento de hospitalizaciones",
-        "URLS": "Source[https://www.20minutos.es/noticia/4637552/0/cataluna-puertas-cuarta-ola-aumento-hospitalizaciones/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4637552/0/cataluna-puertas-cuarta-ola-aumento-hospitalizaciones/] \n",
+        "VALUE": "Reliable"
     },
     "6": {
         "DATA": {
@@ -688,9 +682,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El Ministerio del Interior aprovecha el coronavirus para suspender permisos y visitas en las prisiones",
-        "URLS": "Source[https://mpr21.info/el-ministerio-del-interior-aprovecha-el-coronavirus-para-suspender-permisos-y-visitas-en-las-prisiones/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/el-ministerio-del-interior-aprovecha-el-coronavirus-para-suspender-permisos-y-visitas-en-las-prisiones/]\n",
+        "VALUE": "Unreliable"
     },
     "7": {
         "DATA": {
@@ -787,9 +780,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los autores del documental ‘The Big Reset’ publican un nuevo vídeo pidiendo la colaboración de todos para desenmascarar a los culpables de esta farsa que estamos viviendo",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/los-autores-del-documental-the-big-reset-publican-un-nuevo-video-pidiendo-la-colaboracion-de-todos-para-desenmascarar-a-los-culpables-de-esta-farsa-que-estamos-viviendo/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/los-autores-del-documental-the-big-reset-publican-un-nuevo-video-pidiendo-la-colaboracion-de-todos-para-desenmascarar-a-los-culpables-de-esta-farsa-que-estamos-viviendo/]\n",
+        "VALUE": "Unreliable"
     },
     "8": {
         "DATA": {
@@ -886,9 +878,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Unas 100.000 personas de entre 60 y 65 años han pedido cita para vacunarse en Cataluña a través de una web",
-        "URLS": "Source[https://elpais.com/espana/catalunya/2021-03-25/unas-100000-personas-de-entre-60-y-65-anos-han-pedido-cita-para-vacunarse-en-cataluna-a-traves-de-una-web.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://elpais.com/espana/catalunya/2021-03-25/unas-100000-personas-de-entre-60-y-65-anos-han-pedido-cita-para-vacunarse-en-cataluna-a-traves-de-una-web.html]\n",
+        "VALUE": "Reliable"
     },
     "9": {
         "DATA": {
@@ -985,9 +976,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Que no se entere nadie pero un tribunal austriaco ha declarado el TEST PCR como no válido para diagnosticar el virus",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/que-no-se-entere-nadie-pero-un-tribunal-austriaco-ha-declarado-el-test-pcr-como-no-valido-para-diagnosticar-el-virus/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/que-no-se-entere-nadie-pero-un-tribunal-austriaco-ha-declarado-el-test-pcr-como-no-valido-para-diagnosticar-el-virus/]\n",
+        "VALUE": "Unreliable"
     },
     "10": {
         "DATA": {
@@ -1084,9 +1074,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Castilla y León suspende la vacunación con AstraZeneca y Carmen Calvo lo desautoriza en nombre del gobierno acusando al gobierno de la comunidad de “buscar confrontación política”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/castilla-y-leon-suspende-la-vacunacion-con-astrazeneca-y-carmen-calvo-lo-desautoriza-en-nombre-del-gobierno-acusando-al-gobierno-de-la-comunidad-de-buscar-confrontacion-politica/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/castilla-y-leon-suspende-la-vacunacion-con-astrazeneca-y-carmen-calvo-lo-desautoriza-en-nombre-del-gobierno-acusando-al-gobierno-de-la-comunidad-de-buscar-confrontacion-politica/] \n",
+        "VALUE": "Unreliable"
     },
     "11": {
         "DATA": {
@@ -1183,9 +1172,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Fernando López-Mirones denuncia la descarada estrategia que se está llevando a cabo con AstraZeneca",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/fernando-lopez-mirones-denuncia-la-descarada-estrategia-que-se-esta-llevando-a-cabo-con-astrazeneca/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/fernando-lopez-mirones-denuncia-la-descarada-estrategia-que-se-esta-llevando-a-cabo-con-astrazeneca/]\n",
+        "VALUE": "Unreliable"
     },
     "12": {
         "DATA": {
@@ -1282,9 +1270,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La doctora Chinda Brandolino publica un fantástico vídeo explicando a la perfección cuáles son los peligros de las vacunas que nos pretenden poner",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/la-doctora-chinda-brandolino-publica-un-fantastico-video-explicando-a-la-perfeccion-cuales-son-los-peligros-de-las-vacunas-que-nos-pretenden-poner/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/la-doctora-chinda-brandolino-publica-un-fantastico-video-explicando-a-la-perfeccion-cuales-son-los-peligros-de-las-vacunas-que-nos-pretenden-poner/]\n",
+        "VALUE": "Unreliable"
     },
     "13": {
         "DATA": {
@@ -1381,9 +1368,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Estudio: partículas magnéticas en el cerebro, posibles causas de enfermedades neurodegenerativas",
-        "URLS": "Source[https://okdiario.com/salud/estudio-particulas-magneticas-cerebro-posibles-causas-enfermedades-neurodegenerativas-6980693]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/estudio-particulas-magneticas-cerebro-posibles-causas-enfermedades-neurodegenerativas-6980693]\n",
+        "VALUE": "Reliable"
     },
     "14": {
         "DATA": {
@@ -1480,9 +1466,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Fernando Simón, el ‘experto’ que no acertó ni una, culpa a los españoles de la tercera ola de coronavirus",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/20210115/fernando-simon-experto-acerto-culpa-espanoles-tercera-ola-coronavirus-noticia-689404418494/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/20210115/fernando-simon-experto-acerto-culpa-espanoles-tercera-ola-coronavirus-noticia-689404418494/]\n",
+        "VALUE": "Unreliable"
     },
     "15": {
         "DATA": {
@@ -1579,9 +1564,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Dentro del Zendal: paseos y juegos de mesa, los otros 'tratamientos' para sobrellevar la odisea del coronavirus",
-        "URLS": "Source[https://www.20minutos.es/noticia/4572684/0/comunidad-madrid-hospital-isabel-zendal/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4572684/0/comunidad-madrid-hospital-isabel-zendal/] \n",
+        "VALUE": "Reliable"
     },
     "16": {
         "DATA": {
@@ -1678,9 +1662,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Muere de coronavirus este violador y asesino, tras sobrevivir a la inyección letal - Periodista Digital",
-        "URLS": "Source[https://www.periodistadigital.com/gente/sucesos/20210216/muere-coronavirus-violador-asesino-sobrevivir-inyeccion-letal-noticia-689404430626/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/gente/sucesos/20210216/muere-coronavirus-violador-asesino-sobrevivir-inyeccion-letal-noticia-689404430626/] \n",
+        "VALUE": "Unreliable"
     },
     "17": {
         "DATA": {
@@ -1777,9 +1760,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Te contamos porqué introducir la mozzarella en tu dieta habitual",
-        "URLS": "Source[https://okdiario.com/salud/te-contamos-porque-introducir-mozzarella-tu-dieta-habitual-6979153]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/te-contamos-porque-introducir-mozzarella-tu-dieta-habitual-6979153]\n",
+        "VALUE": "Reliable"
     },
     "18": {
         "DATA": {
@@ -1876,9 +1858,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Propiedades de las semillas de ajwain",
-        "URLS": "Source[https://okdiario.com/salud/propiedades-semillas-ajwain-7010092]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://okdiario.com/salud/propiedades-semillas-ajwain-7010092]\n",
+        "VALUE": "Unreliable"
     },
     "19": {
         "DATA": {
@@ -1975,9 +1956,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¡Cómo limpiar tus riñones!",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "20": {
         "DATA": {
@@ -2074,9 +2054,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Espuma de magnesio, novedoso material para regenerar huesos",
-        "URLS": "Source[http://www.eje21.com.co/2021/03/espuma-de-magnesio-novedoso-material-para-regenerar-huesos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/03/espuma-de-magnesio-novedoso-material-para-regenerar-huesos/] \n",
+        "VALUE": "Reliable"
     },
     "21": {
         "DATA": {
@@ -2173,9 +2152,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Una valiente doctora de Urgencias alza la voz: “Qué sentido tiene vacunar a la gente cuando no hay ningún caso si hacerlo puede provocar efectos secundarios”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/una-valiente-doctora-de-urgencias-alza-la-voz-que-sentido-tiene-vacunar-a-la-gente-cuando-no-hay-ningun-caso-si-hacerlo-puede-provocar-efectos-secundarios/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/una-valiente-doctora-de-urgencias-alza-la-voz-que-sentido-tiene-vacunar-a-la-gente-cuando-no-hay-ningun-caso-si-hacerlo-puede-provocar-efectos-secundarios/] \n",
+        "VALUE": "Unreliable"
     },
     "22": {
         "DATA": {
@@ -2272,9 +2250,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Moderna entregará en febrero al Gobierno Sánchez la mitad de las vacunas que le había prometido",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/farmacia/20210216/moderna-entregara-febrero-gobierno-sanchez-mitad-vacunas-le-habia-prometido-noticia-689404430710/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/farmacia/20210216/moderna-entregara-febrero-gobierno-sanchez-mitad-vacunas-le-habia-prometido-noticia-689404430710/]\n",
+        "VALUE": "Reliable"
     },
     "23": {
         "DATA": {
@@ -2371,9 +2348,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los contagios por coronavirus se disparan por Navidad: Sanidad notifica 14.089 nuevos casos y 320 fallecidos",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/20201229/contagios-coronavirus-disparan-espana-sanidad-notifica-14-089-nuevos-casos-320-fallecidos-noticia-689404412436/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/20201229/contagios-coronavirus-disparan-espana-sanidad-notifica-14-089-nuevos-casos-320-fallecidos-noticia-689404412436/] \n",
+        "VALUE": "Reliable"
     },
     "24": {
         "DATA": {
@@ -2470,9 +2446,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La vacuna de AstraZeneca tiene los días contados: otros dos muertos más en Noruega",
-        "URLS": "Source[https://mpr21.info/la-vacuna-de-astrazeneca-tiene-los-dias-contados-otros-dos-muertos-mas-en-noruega/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/la-vacuna-de-astrazeneca-tiene-los-dias-contados-otros-dos-muertos-mas-en-noruega/]\n",
+        "VALUE": "Unreliable"
     },
     "25": {
         "DATA": {
@@ -2569,9 +2544,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El coronavirus también podría causar sordera irreversible, alerta un estudio del Reino Unido",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/20201022/coronavirus-causar-sordera-irreversible-alerta-estudio-reino-unido-noticia-689404384222/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/20201022/coronavirus-causar-sordera-irreversible-alerta-estudio-reino-unido-noticia-689404384222/]\n",
+        "VALUE": "Unreliable"
     },
     "26": {
         "DATA": {
@@ -2668,9 +2642,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La ardua búsqueda de fármacos para combatir la covid-19",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "27": {
         "DATA": {
@@ -2767,9 +2740,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Comunidad Valenciana supera los 100 fallecidos por covid por tercer día consecutivo",
-        "URLS": "Source[https://www.lavanguardia.com/local/valencia/20210211/6241155/comunidad-valenciana-supera-100-fallecidos-covid-tercer-dia-consecutivo.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/local/valencia/20210211/6241155/comunidad-valenciana-supera-100-fallecidos-covid-tercer-dia-consecutivo.html] \n",
+        "VALUE": "Reliable"
     },
     "28": {
         "DATA": {
@@ -2866,9 +2838,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "160 MÉDICOS REUNIDOS EN LONDRES DESAPRUEBAN VACUNA ANTICOVID PORQUE CAMBIARÁ NUESTRO ADN",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "29": {
         "DATA": {
@@ -2965,9 +2936,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "En Ecuador por fin encuentran la cura al Coronavirus",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "30": {
         "DATA": {
@@ -3064,9 +3034,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Fundación IDIS comprometida con la Agenda 2030 de la ONU",
-        "URLS": "Source[https://okdiario.com/salud/fundacion-idis-comprometida-agenda-2030-onu-7022497]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/fundacion-idis-comprometida-agenda-2030-onu-7022497]\n",
+        "VALUE": "Reliable"
     },
     "31": {
         "DATA": {
@@ -3163,9 +3132,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La directora de Salud Pública de la OMS: \"No se espera un repunte de la mortalidad\" por la covid",
-        "URLS": "Source[https://www.lavanguardia.com/vida/salud/20210305/6264171/directora-salud-publica-oms-repunte-mortalidad-covid.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/vida/salud/20210305/6264171/directora-salud-publica-oms-repunte-mortalidad-covid.html]\n",
+        "VALUE": "Reliable"
     },
     "32": {
         "DATA": {
@@ -3262,9 +3230,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Así pensaba Kary Mullis, inventor de la PCR, un hombre que ahora resultaría muy incómodo para los defensores del discurso oficial del virus y que, “curiosamente”, murió en agosto de 2019, poco antes de que se montara todo esto",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/asi-pensaba-kary-mullis-inventor-de-la-pcr-un-hombre-que-ahora-resultaria-muy-incomodo-para-los-defensores-del-discurso-oficial-del-virus-y-que-curiosamente-murio-en-agosto-de-2019-poco-antes/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/asi-pensaba-kary-mullis-inventor-de-la-pcr-un-hombre-que-ahora-resultaria-muy-incomodo-para-los-defensores-del-discurso-oficial-del-virus-y-que-curiosamente-murio-en-agosto-de-2019-poco-antes/]\n",
+        "VALUE": "Unreliable"
     },
     "33": {
         "DATA": {
@@ -3361,9 +3328,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Investigadores británicos descubren un posible tratamiento antiviral para COVID-19 - Periodista Digital",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/20210204/investigadores-britanicos-descubren-posible-tratamiento-antiviral-covid-19-noticia-689404426576/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/20210204/investigadores-britanicos-descubren-posible-tratamiento-antiviral-covid-19-noticia-689404426576/] \n",
+        "VALUE": "Reliable"
     },
     "34": {
         "DATA": {
@@ -3460,9 +3426,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Cantar bajo la ducha hace muy bien según la ciencia - TuDiario.Net",
-        "URLS": "Source[https://tudiario.net/cantar-bajo-la-ducha-hace-muy-bien-segun-la-ciencia/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://tudiario.net/cantar-bajo-la-ducha-hace-muy-bien-segun-la-ciencia/] \n",
+        "VALUE": "Reliable"
     },
     "35": {
         "DATA": {
@@ -3559,9 +3524,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El televisivo doctor vendedor del discurso oficial, César Carballo, justifica de una forma vergonzosa la neumonía de un paciente vacunado el 26 de marzo",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/el-televisivo-doctor-vendedor-del-discurso-oficial-cesar-carballo-justifica-de-una-forma-vergonzosa-la-neumonia-de-un-paciente-vacunado-el-26-de-marzo/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/el-televisivo-doctor-vendedor-del-discurso-oficial-cesar-carballo-justifica-de-una-forma-vergonzosa-la-neumonia-de-un-paciente-vacunado-el-26-de-marzo/]\n",
+        "VALUE": "Unreliable"
     },
     "36": {
         "DATA": {
@@ -3658,9 +3622,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Fernando Simón sigue haciendo gala de su ignorancia y su irresponsabilidad, pero de marcharse a su casa no dice nada",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/fernando-simon-sigue-haciendo-gala-de-su-ignorancia-y-su-irresponsabilidad-pero-de-marcharse-a-su-casa-no-dice-nada/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/fernando-simon-sigue-haciendo-gala-de-su-ignorancia-y-su-irresponsabilidad-pero-de-marcharse-a-su-casa-no-dice-nada/]\n",
+        "VALUE": "Unreliable"
     },
     "37": {
         "DATA": {
@@ -3757,9 +3720,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los problemas de sueño se asocian a la fatiga pandémica",
-        "URLS": "Source[https://okdiario.com/salud/problemas-sueno-asocian-fatiga-pandemica-6964728]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/problemas-sueno-asocian-fatiga-pandemica-6964728]\n",
+        "VALUE": "Reliable"
     },
     "38": {
         "DATA": {
@@ -3856,9 +3818,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Nuevo testimonio sobre las vacunas: \"Han matado a mi abuela\"",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/nuevo-testimonio-sobre-las-vacunas-han-matado-a-mi-abuela/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/nuevo-testimonio-sobre-las-vacunas-han-matado-a-mi-abuela/] \n",
+        "VALUE": "Unreliable"
     },
     "39": {
         "DATA": {
@@ -3955,9 +3916,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Mallorca: miedo escénico a la desescalada",
-        "URLS": "Source[https://www.lavanguardia.com/vida/salud/20210211/6240380/mallorca-miedo-escenico-desescalada.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/vida/salud/20210211/6240380/mallorca-miedo-escenico-desescalada.html]\n",
+        "VALUE": "Reliable"
     },
     "40": {
         "DATA": {
@@ -4054,9 +4014,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Este 31 de marzo se conmemora el día de la lucha contra el cáncer de colon y recto",
-        "URLS": "Source[http://www.eje21.com.co/2021/03/este-31-de-marzo-se-conmemora-el-dia-de-la-lucha-contra-el-cancer-de-colon-y-recto/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/03/este-31-de-marzo-se-conmemora-el-dia-de-la-lucha-contra-el-cancer-de-colon-y-recto/] \n",
+        "VALUE": "Reliable"
     },
     "41": {
         "DATA": {
@@ -4153,9 +4112,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La importancia del drenaje postural en pacientes COVID-19",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "42": {
         "DATA": {
@@ -4252,9 +4210,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "53 muertos en Gibraltar en 10 días después de que comenzaran las inyecciones experimentales de ARNm COVID de Pfizer",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "43": {
         "DATA": {
@@ -4351,9 +4308,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Ante la erupción del volcán Le Soufriere, el Primer Ministro de la isla San Vicente y las Granadinas dice que solo serán evacuadas las personas vacunadas",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/ante-la-erupcion-del-volcan-le-soufriere-el-primer-ministro-de-la-isla-san-vicente-y-las-granadinas-dice-que-solo-seran-evacuadas-las-personas-vacunadas/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/ante-la-erupcion-del-volcan-le-soufriere-el-primer-ministro-de-la-isla-san-vicente-y-las-granadinas-dice-que-solo-seran-evacuadas-las-personas-vacunadas/]\n",
+        "VALUE": "Unreliable"
     },
     "44": {
         "DATA": {
@@ -4450,9 +4406,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El 80 por ciento de las muertes atribuidas al ‘covid’ en Escocia son de personas vacunadas",
-        "URLS": "Source[https://mpr21.info/el-80-por-ciento-de-las-muertes-atribuidas-al-covid-en-escocia-son-de-personas-vacunadas/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/el-80-por-ciento-de-las-muertes-atribuidas-al-covid-en-escocia-son-de-personas-vacunadas/]\n",
+        "VALUE": "Unreliable"
     },
     "45": {
         "DATA": {
@@ -4549,9 +4504,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Una enfermera fallece en Georgia tras ser vacunada con AstraZeneca a causa de un choque anafiláctico",
-        "URLS": "Source[https://mpr21.info/una-enfermera-fallece-en-georgia-tras-ser-vacunada-con-astrazeneca-a-causa-de-un-choque-anafilactico/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/una-enfermera-fallece-en-georgia-tras-ser-vacunada-con-astrazeneca-a-causa-de-un-choque-anafilactico/]\n",
+        "VALUE": "Unreliable"
     },
     "46": {
         "DATA": {
@@ -4648,9 +4602,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Un científico del CSIC señala que el peligro de contagiarse en los ascensores: \"Son trampas para osos\"",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "47": {
         "DATA": {
@@ -4747,9 +4700,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El tercer partido más importante de Alemania pide la salida de la UE y el levantamiento de los bloqueos por el virus",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/el-tercer-partido-mas-importante-de-alemania-pide-la-salida-de-la-ue-y-el-levantamiento-de-los-bloqueos-por-el-virus/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/el-tercer-partido-mas-importante-de-alemania-pide-la-salida-de-la-ue-y-el-levantamiento-de-los-bloqueos-por-el-virus/]\n",
+        "VALUE": "Unreliable"
     },
     "48": {
         "DATA": {
@@ -4846,9 +4798,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "España bate récord de vacunación por segundo día, envía un millón de dosis a las CC AA y otro más a partir del lunes",
-        "URLS": "Source[https://www.20minutos.es/noticia/4643051/0/espana-bate-record-de-vacunacion-por-segundo-dia-lleva-un-millon-de-dosis-hoy-a-las-cc-aa-y-otro-a-partir-del-lunes/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4643051/0/espana-bate-record-de-vacunacion-por-segundo-dia-lleva-un-millon-de-dosis-hoy-a-las-cc-aa-y-otro-a-partir-del-lunes/]\n",
+        "VALUE": "Reliable"
     },
     "49": {
         "DATA": {
@@ -4945,9 +4896,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La principal causa de la muerte en México es la saturación hospitalaria",
-        "URLS": "Source[https://mpr21.info/la-principal-causa-de-la-muerte-en-mexico-es-la-saturacion-hospitalaria/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/la-principal-causa-de-la-muerte-en-mexico-es-la-saturacion-hospitalaria/]\n",
+        "VALUE": "Unreliable"
     },
     "50": {
         "DATA": {
@@ -5044,9 +4994,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "EGIPTO DESCUBRE LA VACUNA CONTRA EL CORONAVIRUS Y AFIRMA QUE SIETE PERSONAS CONTAGIADAS SE HAN SANADO",
-        "URLS": "\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "\n",
+        "VALUE": "Unreliable"
     },
     "51": {
         "DATA": {
@@ -5143,9 +5092,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El enigma de la nueva variante del coronavirus detectada en Inglaterra",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "52": {
         "DATA": {
@@ -5242,9 +5190,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Unión Europea tiene que salir al paso para aclarar una nueva mentira de Pedro Sánchez, lo del presimiente con la mentira ya es patológico",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/la-union-europea-tiene-que-salir-al-paso-para-aclarar-una-nueva-mentira-de-pedro-sanchez-lo-del-presimiente-con-la-mentira-ya-es-patologico/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/la-union-europea-tiene-que-salir-al-paso-para-aclarar-una-nueva-mentira-de-pedro-sanchez-lo-del-presimiente-con-la-mentira-ya-es-patologico/]\n",
+        "VALUE": "Unreliable"
     },
     "53": {
         "DATA": {
@@ -5341,9 +5288,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Esto es lo que le pasa a tu cuerpo si bebes alcohol cada día",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "54": {
         "DATA": {
@@ -5440,9 +5386,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los principales efectos de las vacunas detectados en España hasta ahora",
-        "URLS": "Source[https://www.20minutos.es/noticia/4651027/0/principales-efectos-vacunas-detectados-espana/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4651027/0/principales-efectos-vacunas-detectados-espana/] \n",
+        "VALUE": "Reliable"
     },
     "55": {
         "DATA": {
@@ -5539,9 +5484,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Qué son las mascarillas KF94 y cuáles son sus características?",
-        "URLS": "Source[https://okdiario.com/salud/que-son-mascarillas-kf94-cuales-son-sus-caracteristicas-6998512] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/que-son-mascarillas-kf94-cuales-son-sus-caracteristicas-6998512] \n",
+        "VALUE": "Reliable"
     },
     "56": {
         "DATA": {
@@ -5638,9 +5582,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Las mascarillas causan enfermedades neurodegenerativas que no tienen cura",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "57": {
         "DATA": {
@@ -5737,9 +5680,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Hospital de Mataró: Cribaje masivo tras detectar cinco positivos de Covid-19",
-        "URLS": "Source[https://www.lavanguardia.com/local/maresme/20210118/6184887/cribaje-masivo-hospital-mataro-detectar-cinco-positivos-covid-19.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/local/maresme/20210118/6184887/cribaje-masivo-hospital-mataro-detectar-cinco-positivos-covid-19.html] \n",
+        "VALUE": "Reliable"
     },
     "58": {
         "DATA": {
@@ -5836,9 +5778,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Comunidad de Madrid cierra 17 zonas desde este lunes y mantiene el toque de queda en toda la región",
-        "URLS": "Source[https://www.20minutos.es/noticia/4652501/0/comunidad-madrid-cierra-zonas-lunes-mantiene-toque-de-queda/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4652501/0/comunidad-madrid-cierra-zonas-lunes-mantiene-toque-de-queda/] \n",
+        "VALUE": "Reliable"
     },
     "59": {
         "DATA": {
@@ -5935,9 +5876,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Pfizer entregó vacunas con ARNm defectuoso a la Unión Europea y la Agencia Europea del Medicamento encubre el fraude",
-        "URLS": "Source[https://mpr21.info/pfizer-entrego-vacunas-con-arnm-defectuoso-a-la-union-europea-y-la-agencia-europea-del-medicamento-encubre-el-fraude/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/pfizer-entrego-vacunas-con-arnm-defectuoso-a-la-union-europea-y-la-agencia-europea-del-medicamento-encubre-el-fraude/]\n",
+        "VALUE": "Unreliable"
     },
     "60": {
         "DATA": {
@@ -6034,9 +5974,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Acrilamida, dónde está, cómo evitarla y por qué puede ser perjudicial ",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "61": {
         "DATA": {
@@ -6133,9 +6072,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "UnionGC denuncia el retraso en la vacunación COVID-19 de los Guardias Civiles de Galicia.",
-        "URLS": "Source[https://www.periodistadigital.com/politica/20210311/uniongc-denuncia-retraso-vacunacion-covid-19-guardias-civiles-galicia-noticia-689404448509/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/politica/20210311/uniongc-denuncia-retraso-vacunacion-covid-19-guardias-civiles-galicia-noticia-689404448509/]\n",
+        "VALUE": "Unreliable"
     },
     "62": {
         "DATA": {
@@ -6232,9 +6170,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "En diez meses las vacunas contra el coronavirus han causado 12 veces más muertes que todas las demás en 51 años",
-        "URLS": "Source[https://mpr21.info/en-diez-meses-las-vacunas-contra-el-coronavirus-han-causado-12-veces-mas-muertes-que-todas-las-demas-en-51-anos/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/en-diez-meses-las-vacunas-contra-el-coronavirus-han-causado-12-veces-mas-muertes-que-todas-las-demas-en-51-anos/]\n",
+        "VALUE": "Unreliable"
     },
     "63": {
         "DATA": {
@@ -6331,9 +6268,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Estas Son Las Causas De Los Calambres Nocturnos En Las Piernas Y Así Se Alivian",
-        "URLS": "Source[https://tudiario.net/estas-son-las-causas-de-los-calambres-nocturnos-en-las-piernas-y-asi-se-alivian/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://tudiario.net/estas-son-las-causas-de-los-calambres-nocturnos-en-las-piernas-y-asi-se-alivian/] \n",
+        "VALUE": "Unreliable"
     },
     "64": {
         "DATA": {
@@ -6430,9 +6366,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Colombia suma otros 7.049 nuevos casos de covid-19 y 124 fallecidos",
-        "URLS": "Source[http://www.eje21.com.co/2021/03/colombia-suma-otros-7-049-nuevos-casos-de-covid-19-y-124-fallecidos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/03/colombia-suma-otros-7-049-nuevos-casos-de-covid-19-y-124-fallecidos/] \n",
+        "VALUE": "Reliable"
     },
     "65": {
         "DATA": {
@@ -6529,9 +6464,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Pfizer, Moderna, AstraZeneca...Las diferencias entre las vacunas del coronavirus que llegarán a España",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "66": {
         "DATA": {
@@ -6628,9 +6562,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Dra. Natalia Prego destapa el escandaloso motivo y los preocupantes condicionantes con los que se ha vuelto a autorizar AstraZeneca",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/la-dra-natalia-prego-destapa-el-escandaloso-motivo-y-los-preocupantes-condicionantes-con-los-que-se-ha-vuelto-a-autorizar-astrazeneca/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/la-dra-natalia-prego-destapa-el-escandaloso-motivo-y-los-preocupantes-condicionantes-con-los-que-se-ha-vuelto-a-autorizar-astrazeneca/] \n",
+        "VALUE": "Unreliable"
     },
     "67": {
         "DATA": {
@@ -6727,9 +6660,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Esta es la APP gratuita para el diagnóstico predictivo del riesgo en pacientes COVID-19 para sanitarios",
-        "URLS": "Source[https://okdiario.com/salud/esta-app-gratuita-diagnostico-predictivo-del-riesgo-pacientes-covid-19-sanitarios-6995337]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/esta-app-gratuita-diagnostico-predictivo-del-riesgo-pacientes-covid-19-sanitarios-6995337]\n",
+        "VALUE": "Reliable"
     },
     "68": {
         "DATA": {
@@ -6826,9 +6758,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Pfizer violó el protocolo y adulteró las pruebas para obtener la aprobación de la FDA",
-        "URLS": "Source[https://mpr21.info/pfizer-violo-el-protocolo-y-adultero-las-pruebas-para-obtener-la-aprobacion-de-la-fda/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/pfizer-violo-el-protocolo-y-adultero-las-pruebas-para-obtener-la-aprobacion-de-la-fda/]\n",
+        "VALUE": "Unreliable"
     },
     "69": {
         "DATA": {
@@ -6925,9 +6856,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Denuncian a una madrileña por saltarse el cierre perimetral para ir a su apartamento en Alicante",
-        "URLS": "Source[https://www.lavanguardia.com/local/valencia/20210326/6609291/denuncian-madrilena-saltarse-cierre-perimetral-apartamento-alicante.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/local/valencia/20210326/6609291/denuncian-madrilena-saltarse-cierre-perimetral-apartamento-alicante.html]\n",
+        "VALUE": "Reliable"
     },
     "70": {
         "DATA": {
@@ -7024,9 +6954,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Castilla-La Mancha impone un régimen penitenciario en los centros de mayores, avalado por los tribunales",
-        "URLS": "Source[https://mpr21.info/castilla-la-mancha-impone-un-regimen-penitenciario-en-los-centros-de-mayores-avalado-por-los-tribunales/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/castilla-la-mancha-impone-un-regimen-penitenciario-en-los-centros-de-mayores-avalado-por-los-tribunales/]\n",
+        "VALUE": "Unreliable"
     },
     "71": {
         "DATA": {
@@ -7123,9 +7052,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Es recomendable utilizar dos mascarillas a la vez para protegernos del coronavirus?",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "72": {
         "DATA": {
@@ -7222,9 +7150,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "73": {
         "DATA": {
@@ -7321,9 +7248,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Una revista científica divulga el respirador COVID de licencia libre, en el que han colaborado investigadores aragoneses",
-        "URLS": "Source[https://www.20minutos.es/noticia/4651982/0/una-revista-cientifica-divulga-el-respirador-covid-de-licencia-libre-en-el-que-han-colaborado-investigadores-aragoneses/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4651982/0/una-revista-cientifica-divulga-el-respirador-covid-de-licencia-libre-en-el-que-han-colaborado-investigadores-aragoneses/] \n",
+        "VALUE": "Reliable"
     },
     "74": {
         "DATA": {
@@ -7420,9 +7346,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Regulador británico halla 30 casos de coágulos sanguíneos tras uso de vacuna de AstraZeneca",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/regulador-britanico-halla-30-casos-de-coagulos-sanguineos-tras-uso-de-vacuna-de-astrazeneca/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/regulador-britanico-halla-30-casos-de-coagulos-sanguineos-tras-uso-de-vacuna-de-astrazeneca/]\n",
+        "VALUE": "Reliable"
     },
     "75": {
         "DATA": {
@@ -7519,9 +7444,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Entrevista a varios niños que cuentan por lo que se les está haciendo pasar en el colegio con la excusa del virus. ¡Protejamos a nuestros hijos!",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/entrevista-a-varios-ninos-que-cuentan-por-lo-que-se-les-esta-haciendo-pasar-en-el-colegio-con-la-excusa-del-virus-protejamos-a-nuestros-hijos/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/entrevista-a-varios-ninos-que-cuentan-por-lo-que-se-les-esta-haciendo-pasar-en-el-colegio-con-la-excusa-del-virus-protejamos-a-nuestros-hijos/]\n",
+        "VALUE": "Unreliable"
     },
     "76": {
         "DATA": {
@@ -7618,9 +7542,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Castilla y León retoma la vacunación con AstraZeneca entre el desconcierto y la indignación: “Es un desastre”",
-        "URLS": "Source[https://elpais.com/sociedad/2021-04-08/castilla-y-leon-retoma-la-vacunacion-con-astrazeneca-entre-el-desconcierto-y-la-indignacion-es-un-desastre.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://elpais.com/sociedad/2021-04-08/castilla-y-leon-retoma-la-vacunacion-con-astrazeneca-entre-el-desconcierto-y-la-indignacion-es-un-desastre.html] \n",
+        "VALUE": "Reliable"
     },
     "77": {
         "DATA": {
@@ -7717,9 +7640,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Condenan al CatSalut por la muerte de paciente tras un diagnóstico erróneo",
-        "URLS": "Source[https://www.lavanguardia.com/local/maresme/20210202/6218072/condenan-catsalut-muerte-paciente-diagnostico-erroneo.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/local/maresme/20210202/6218072/condenan-catsalut-muerte-paciente-diagnostico-erroneo.html]\n",
+        "VALUE": "Reliable"
     },
     "78": {
         "DATA": {
@@ -7816,9 +7738,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Ken Frazier Vaporizaciones, Recomienda Vapor por Rebrote de Covid-19",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "79": {
         "DATA": {
@@ -7915,9 +7836,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los ejercicios que debes hacer cuando tienes osteoporosis",
-        "URLS": "Source[https://okdiario.com/salud/ejercicios-que-debes-hacer-cuando-tienes-osteoporosis-6984915] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/ejercicios-que-debes-hacer-cuando-tienes-osteoporosis-6984915] \n",
+        "VALUE": "Reliable"
     },
     "80": {
         "DATA": {
@@ -8014,9 +7934,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Inglaterra levantará todas las restricciones por el COVID el 21 de junio",
-        "URLS": "Source[https://www.periodistadigital.com/mundo/europa/20210222/inglaterra-levantara-restricciones-covid-21-junio-noticia-689404441575/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/mundo/europa/20210222/inglaterra-levantara-restricciones-covid-21-junio-noticia-689404441575/]\n",
+        "VALUE": "Reliable"
     },
     "81": {
         "DATA": {
@@ -8113,9 +8032,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Humillación a unos adolescentes en Venezuela por parte de la Policía: “No debo salir de mi casa porque el coronavirus me mata”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/humillacion-a-unos-adolescentes-en-venezuela-por-parte-de-la-policia-no-debo-salir-de-mi-casa-porque-el-coronavirus-me-mata/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/humillacion-a-unos-adolescentes-en-venezuela-por-parte-de-la-policia-no-debo-salir-de-mi-casa-porque-el-coronavirus-me-mata/]\n",
+        "VALUE": "Unreliable"
     },
     "82": {
         "DATA": {
@@ -8212,9 +8130,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "PRECAUCIÓN: El uso prolongado de la mascarilla produce hipoxia",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "83": {
         "DATA": {
@@ -8311,9 +8228,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Reino Unido infectará con COVID a ciudadanos para probar fármacos y vacunas",
-        "URLS": "Source[https://www.periodistadigital.com/mundo/europa/20210217/reino-unido-infectara-covid-ciudadanos-probar-farmacos-vacunas-noticia-689404439783/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/mundo/europa/20210217/reino-unido-infectara-covid-ciudadanos-probar-farmacos-vacunas-noticia-689404439783/]\n",
+        "VALUE": "Unreliable"
     },
     "84": {
         "DATA": {
@@ -8410,9 +8326,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Gobierno unifica protocolos de bioseguridad para vuelos nacionales e internacionales",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/gobierno-unifica-protocolos-de-bioseguridad-para-vuelos-nacionales-e-internacionales/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/gobierno-unifica-protocolos-de-bioseguridad-para-vuelos-nacionales-e-internacionales/]\n",
+        "VALUE": "Reliable"
     },
     "85": {
         "DATA": {
@@ -8509,9 +8424,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Janssen pide a la UE la aprobación de la vacuna de una sola dosis que acelerará la inmunización",
-        "URLS": "Source[https://www.lavanguardia.com/vida/salud/20210216/6250424/janssen-pide-ue-aprobacion-vacuna-sola-dosis-acelerara-inmunizacion.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/vida/salud/20210216/6250424/janssen-pide-ue-aprobacion-vacuna-sola-dosis-acelerara-inmunizacion.html] \n",
+        "VALUE": "Reliable"
     },
     "86": {
         "DATA": {
@@ -8608,9 +8522,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Coronavirus: estamos en manos de un Gobierno irresponsable trufado de ‘expertos’ incompetentes",
-        "URLS": "Source[https://www.periodistadigital.com/politica/opinion/20210123/coronavirus-manos-gobierno-inepto-e-irresponsable-expertos-incompetentes-noticia-689404421785/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/politica/opinion/20210123/coronavirus-manos-gobierno-inepto-e-irresponsable-expertos-incompetentes-noticia-689404421785/]\n",
+        "VALUE": "Unreliable"
     },
     "87": {
         "DATA": {
@@ -8707,9 +8620,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Presionan a Bolsonaro para imponer un toque de queda nacional que evite el colapso hospitalario",
-        "URLS": "Source[https://www.periodistadigital.com/pd-america/20210302/presionan-bolsonaro-imponer-toque-queda-nacional-evite-colapso-hospitalario-noticia-689404444871/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/pd-america/20210302/presionan-bolsonaro-imponer-toque-queda-nacional-evite-colapso-hospitalario-noticia-689404444871/] \n",
+        "VALUE": "Reliable"
     },
     "88": {
         "DATA": {
@@ -8806,9 +8718,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Un tribunal levanta todas las restricciones sanitarias impuestas a los niños en las escuelas de Alemania",
-        "URLS": "Source[https://mpr21.info/un-tribunal-levanta-todas-las-restricciones-sanitarias-impuestas-a-los-ninos-en-las-escuelas-de-alemania/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/un-tribunal-levanta-todas-las-restricciones-sanitarias-impuestas-a-los-ninos-en-las-escuelas-de-alemania/]\n",
+        "VALUE": "Unreliable"
     },
     "89": {
         "DATA": {
@@ -8905,9 +8816,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Aseo bucal extremo evita que coronavirus se multiplique en contagiados",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "90": {
         "DATA": {
@@ -9004,9 +8914,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Cataluña prevé haber administrado la primera dosis a todos los mayores de 80 años a mediados de abril",
-        "URLS": "Source[https://elpais.com/espana/catalunya/2021-03-29/cataluna-preve-haber-administrado-la-primera-dosis-a-todos-los-mayores-de-80-anos-a-mediados-de-abril.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://elpais.com/espana/catalunya/2021-03-29/cataluna-preve-haber-administrado-la-primera-dosis-a-todos-los-mayores-de-80-anos-a-mediados-de-abril.html]\n",
+        "VALUE": "Reliable"
     },
     "91": {
         "DATA": {
@@ -9103,9 +9012,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los enjuagues bucales podrían reducir el riesgo de transmisión del coronavirus",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "92": {
         "DATA": {
@@ -9202,9 +9110,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Estudio: la aspirina podría reducir las muertes por coronavirus severo",
-        "URLS": "Source[https://okdiario.com/salud/estudio-aspirina-podria-reducir-muertes-coronavirus-severo-7033327] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/estudio-aspirina-podria-reducir-muertes-coronavirus-severo-7033327] \n",
+        "VALUE": "Reliable"
     },
     "93": {
         "DATA": {
@@ -9301,9 +9208,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Vergonzoso lo de los medios de comunicación españoles: Nos “venden” el drama que está sufriendo Chile por la vacunación como algo “paradójico”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/vergonzoso-lo-de-los-medios-de-comunicacion-espanoles-nos-venden-el-drama-que-esta-sufriendo-chile-por-la-vacunacion-como-algo-paradojico/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/vergonzoso-lo-de-los-medios-de-comunicacion-espanoles-nos-venden-el-drama-que-esta-sufriendo-chile-por-la-vacunacion-como-algo-paradojico/]\n",
+        "VALUE": "Unreliable"
     },
     "94": {
         "DATA": {
@@ -9400,9 +9306,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Se curó tres tipos de cáncer y cuatro enfermedades con CDS",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "95": {
         "DATA": {
@@ -9499,9 +9404,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Colombia agrega 10.222 contagios y otras 163 muertes por coronavirus",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/colombia-agrega-10-222-contagios-y-otras-163-muertes-por-coronavirus/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/colombia-agrega-10-222-contagios-y-otras-163-muertes-por-coronavirus/] \n",
+        "VALUE": "Reliable"
     },
     "96": {
         "DATA": {
@@ -9598,9 +9502,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Italia retiene 250.000 vacunas de AstraZeneca destinadas a Australia",
-        "URLS": "Source[https://www.periodistadigital.com/mundo/europa/20210304/italia-retiene-250-000-vacunas-astrazeneca-destinadas-australia-noticia-689404446044/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/mundo/europa/20210304/italia-retiene-250-000-vacunas-astrazeneca-destinadas-australia-noticia-689404446044/]\n",
+        "VALUE": "Reliable"
     },
     "97": {
         "DATA": {
@@ -9697,9 +9600,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Semana Santa, punto de inflexión de la pandemia, pone en alerta a Colombia",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/la-semana-santa-punto-de-inflexion-de-la-pandemia-pone-en-alerta-a-colombia/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/la-semana-santa-punto-de-inflexion-de-la-pandemia-pone-en-alerta-a-colombia/]\n",
+        "VALUE": "Reliable"
     },
     "98": {
         "DATA": {
@@ -9796,9 +9698,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Secretos de la piel, puntos negros y espinillas.",
-        "URLS": "Source[https://tudiario.net/secretos-de-la-piel-puntos-negros-y-espinillas/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://tudiario.net/secretos-de-la-piel-puntos-negros-y-espinillas/] \n",
+        "VALUE": "Unreliable"
     },
     "99": {
         "DATA": {
@@ -9895,9 +9796,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Comunidad Valenciana mantiene el cierre perimetral y la limitación horaria para la hostelería",
-        "URLS": "Source[https://elpais.com/espana/comunidad-valenciana/2021-04-08/la-comunidad-valenciana-mantiene-el-cierre-perimetral-y-la-limitacion-horaria-para-la-hosteleria.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://elpais.com/espana/comunidad-valenciana/2021-04-08/la-comunidad-valenciana-mantiene-el-cierre-perimetral-y-la-limitacion-horaria-para-la-hosteleria.html] \n",
+        "VALUE": "Reliable"
     },
     "100": {
         "DATA": {
@@ -9994,9 +9894,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Coronavirus: AstraZeneca afirma que su vacuna es 79% efectiva",
-        "URLS": "Source[https://okdiario.com/salud/coronavirus-astrazeneca-afirma-que-vacuna-79-efectiva-6993857]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/coronavirus-astrazeneca-afirma-que-vacuna-79-efectiva-6993857]\n",
+        "VALUE": "Reliable"
     },
     "101": {
         "DATA": {
@@ -10093,9 +9992,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Sabes qué síntomas tiene la cepa británica y sus diferencias con la Covid 'normal'?",
-        "URLS": "Source[https://www.periodistadigital.com/periodismo/20210130/sintomas-cepa-britanica-diferencias-covid-normal-noticia-689404424540/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/periodismo/20210130/sintomas-cepa-britanica-diferencias-covid-normal-noticia-689404424540/] \n",
+        "VALUE": "Reliable"
     },
     "102": {
         "DATA": {
@@ -10192,9 +10090,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Rusia retoma la campaña a favor de la Sputnik V: ahora dice que es eficaz contra la cepa británica del COVID",
-        "URLS": "Source[https://www.periodistadigital.com/mundo/europa/20210216/rusia-retoma-campana-favor-sputnik-v-ahora-dice-eficaz-cepa-britanica-covid-noticia-689404430835/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/mundo/europa/20210216/rusia-retoma-campana-favor-sputnik-v-ahora-dice-eficaz-cepa-britanica-covid-noticia-689404430835/] \n",
+        "VALUE": "Unreliable"
     },
     "103": {
         "DATA": {
@@ -10291,9 +10188,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Para este viaje no hacían falta tantas alforjas: la OMS se va hasta China para concluir que el coronavirus tiene origen animal",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/ser-humano/20210209/viaje-hacian-falta-alforjas-oms-china-concluir-coronavirus-origen-animal-noticia-689404428079/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/ser-humano/20210209/viaje-hacian-falta-alforjas-oms-china-concluir-coronavirus-origen-animal-noticia-689404428079/]\n",
+        "VALUE": "Unreliable"
     },
     "104": {
         "DATA": {
@@ -10390,9 +10286,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El gobierno reconoce un error en sus cuentas de ¡¡36.500 millones de euros!! Y esto es cosa de Nadia Calviño que era “la más lista” de este gobierno",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/el-gobierno-reconoce-un-error-en-sus-cuentas-de-36-500-millones-de-euros-y-esto-es-cosa-de-nadia-calvino-que-era-la-mas-lista-de-este-gobierno/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/el-gobierno-reconoce-un-error-en-sus-cuentas-de-36-500-millones-de-euros-y-esto-es-cosa-de-nadia-calvino-que-era-la-mas-lista-de-este-gobierno/]\n",
+        "VALUE": "Unreliable"
     },
     "105": {
         "DATA": {
@@ -10489,9 +10384,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Aplidin: El fármaco anticancerígeno probado en España que cura la Covid en 14 días",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/20201020/aplidin-farmaco-anticancerigeno-probado-espana-cura-covid-14-dias-noticia-689404382747/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/20201020/aplidin-farmaco-anticancerigeno-probado-espana-cura-covid-14-dias-noticia-689404382747/]\n",
+        "VALUE": "Reliable"
     },
     "106": {
         "DATA": {
@@ -10588,9 +10482,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El escalofrío de Ignacio Camacho con la pareja cómica Simón-Illa: «No hay nadie al mando»",
-        "URLS": "Source[https://www.periodistadigital.com/periodismo/prensa/20210113/escalofrio-ignacio-camacho-pareja-comica-simon-illa-hay-nadie-mando-noticia-689404417563/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/periodismo/prensa/20210113/escalofrio-ignacio-camacho-pareja-comica-simon-illa-hay-nadie-mando-noticia-689404417563/]\n",
+        "VALUE": "Unreliable"
     },
     "107": {
         "DATA": {
@@ -10687,9 +10580,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La Reina se interesa por el impacto de la covid en las enfermedades raras",
-        "URLS": "Source[https://www.lavanguardia.com/vida/salud/20210127/6201782/letizia-enfermedades-raras-feder.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/vida/salud/20210127/6201782/letizia-enfermedades-raras-feder.html]\n",
+        "VALUE": "Reliable"
     },
     "108": {
         "DATA": {
@@ -10786,9 +10678,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "",
-        "URLS": "\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "\n",
+        "VALUE": "Reliable"
     },
     "109": {
         "DATA": {
@@ -10885,9 +10776,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Reino Unido ha inyectado más de 18 millones de dosis de AstraZeneca y ha registrado siete muertos por coágulos",
-        "URLS": "Source[https://www.20minutos.es/noticia/4643645/0/reino-unido-millones-dosis-astrazeneca-registrado-muertos-coagulos/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4643645/0/reino-unido-millones-dosis-astrazeneca-registrado-muertos-coagulos/]\n",
+        "VALUE": "Reliable"
     },
     "110": {
         "DATA": {
@@ -10984,9 +10874,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Y mientras tanto el Ministerio de Ciencia se gasta 45.980 € en investigar «el impacto sexista» de los piropos",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/y-mientras-tanto-el-ministerio-de-ciencia-se-gasta-45-980-e-en-investigar-el-impacto-sexista-de-los-piropos/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/y-mientras-tanto-el-ministerio-de-ciencia-se-gasta-45-980-e-en-investigar-el-impacto-sexista-de-los-piropos/]\n",
+        "VALUE": "Unreliable"
     },
     "111": {
         "DATA": {
@@ -11083,9 +10972,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Para los que tienen vehículo",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Unreliable"
     },
     "112": {
         "DATA": {
@@ -11182,9 +11070,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El asalto a la libertad",
-        "URLS": "Source[https://www.periodistadigital.com/politica/20210305/asalto-libertad-noticia-689404446176/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/politica/20210305/asalto-libertad-noticia-689404446176/]\n",
+        "VALUE": "Unreliable"
     },
     "113": {
         "DATA": {
@@ -11281,9 +11168,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El crecimiento del virus se activa en Cataluña y aumentan los pacientes en la UCI",
-        "URLS": "Source[https://www.20minutos.es/noticia/4632651/0/el-crecimiento-del-virus-se-activa-en-cataluna-y-aumentan-pacientes-en-uci/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4632651/0/el-crecimiento-del-virus-se-activa-en-cataluna-y-aumentan-pacientes-en-uci/] \n",
+        "VALUE": "Reliable"
     },
     "114": {
         "DATA": {
@@ -11380,9 +11266,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Las condenas de Estrasburgo en España se premian: el caso del Comisario Nogueroles",
-        "URLS": "Source[https://mpr21.info/las-condenas-de-estrasburgo-en-espana-se-premian-el-caso-del-comisario-nogueroles/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/las-condenas-de-estrasburgo-en-espana-se-premian-el-caso-del-comisario-nogueroles/]\n",
+        "VALUE": "Unreliable"
     },
     "115": {
         "DATA": {
@@ -11479,9 +11364,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Berlín y Múnich paran la administración con la vacuna de AstraZeneca a menores de 60 años",
-        "URLS": "Source[https://okdiario.com/salud/berlin-munich-paran-administracion-vacuna-astrazeneca-menores-60-anos-7029452]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/berlin-munich-paran-administracion-vacuna-astrazeneca-menores-60-anos-7029452]\n",
+        "VALUE": "Reliable"
     },
     "116": {
         "DATA": {
@@ -11578,9 +11462,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Pfizer y BioNTech solicitan en Estados Unidos que su vacuna se apruebe en adolescentes de 12 a 15 años",
-        "URLS": "Source[https://www.20minutos.es/noticia/4650965/0/pfizer-biontech-solicitan-estados-unidos-vacuna-apruebe-adolescentes-anos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4650965/0/pfizer-biontech-solicitan-estados-unidos-vacuna-apruebe-adolescentes-anos/] \n",
+        "VALUE": "Reliable"
     },
     "117": {
         "DATA": {
@@ -11677,9 +11560,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los italianos que no quieran la vacuna de AstraZeneca podrán recibir otra",
-        "URLS": "Source[https://okdiario.com/salud/italianos-que-no-quieran-vacuna-astrazeneca-podran-recibir-otra-6984409] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/italianos-que-no-quieran-vacuna-astrazeneca-podran-recibir-otra-6984409] \n",
+        "VALUE": "Reliable"
     },
     "118": {
         "DATA": {
@@ -11776,9 +11658,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Nuevo vídeo de la valiente Dra. Natalia Prego en el que muestra su oposición frontal al uso de mascarillas",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/nuevo-video-de-la-valiente-dra-natalia-prego-en-el-que-muestra-su-oposicion-frontal-al-uso-de-mascarillas/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/nuevo-video-de-la-valiente-dra-natalia-prego-en-el-que-muestra-su-oposicion-frontal-al-uso-de-mascarillas/]\n",
+        "VALUE": "Unreliable"
     },
     "119": {
         "DATA": {
@@ -11875,9 +11756,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Sanidad no administrará la vacuna de AstraZeneca a mayores de 55 años",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "120": {
         "DATA": {
@@ -11974,9 +11854,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La exposición a los rayos del sol puede reducir el riesgo de muerte por Covid-19",
-        "URLS": "Source[https://www.20minutos.es/noticia/4650601/0/exposicion-rayos-sol-reducir-riesgo-muerte-covid/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4650601/0/exposicion-rayos-sol-reducir-riesgo-muerte-covid/] \n",
+        "VALUE": "Reliable"
     },
     "121": {
         "DATA": {
@@ -12073,9 +11952,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Espectacular descenso de los contagios y hospitalizaciones en Texas y Mississippi tras eliminar la obligatoriedad del uso de mascarillas",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/espectacular-descenso-de-los-contagios-y-hospitalizaciones-en-texas-y-mississippi-tras-eliminar-la-obligatoriedad-del-uso-de-mascarillas/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/espectacular-descenso-de-los-contagios-y-hospitalizaciones-en-texas-y-mississippi-tras-eliminar-la-obligatoriedad-del-uso-de-mascarillas/]\n",
+        "VALUE": "Unreliable"
     },
     "122": {
         "DATA": {
@@ -12172,9 +12050,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El brote en tres bares de Puertollano se eleva a 45 casos positivos",
-        "URLS": "Source[https://www.20minutos.es/noticia/4651710/0/brote-bares-puertollano-eleva-casos-positivos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4651710/0/brote-bares-puertollano-eleva-casos-positivos/] \n",
+        "VALUE": "Reliable"
     },
     "123": {
         "DATA": {
@@ -12271,9 +12148,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La vacuna de Pfizer, sin efectos secundarios nuevos tras un mes de uso en la UE",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "124": {
         "DATA": {
@@ -12370,9 +12246,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Día Mundial del Síndrome de Down 2021, respeto y convivencia",
-        "URLS": "Source[https://okdiario.com/salud/dia-mundial-del-sindrome-down-2021-respeto-convivencia-6985739]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/dia-mundial-del-sindrome-down-2021-respeto-convivencia-6985739]\n",
+        "VALUE": "Reliable"
     },
     "125": {
         "DATA": {
@@ -12469,9 +12344,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Brasil registra por primera vez un promedio de más de 3.000 muertes diarias en los últimos siete días",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/brasil-registra-por-primera-vez-un-promedio-de-mas-de-3-000-muertes-diarias-en-los-ultimos-siete-dias/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/brasil-registra-por-primera-vez-un-promedio-de-mas-de-3-000-muertes-diarias-en-los-ultimos-siete-dias/]\n",
+        "VALUE": "Reliable"
     },
     "126": {
         "DATA": {
@@ -12568,9 +12442,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Por qué no deberías tocarte la mascarilla con la mano cuando la llevas puesta?",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "127": {
         "DATA": {
@@ -12667,9 +12540,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Realmente es más eficaz llevar dos mascarillas?",
-        "URLS": "Source[https://www.elmundo.es/ciencia-y-salud/salud/2021/02/07/601d7274fdddfffc398b45e0.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.elmundo.es/ciencia-y-salud/salud/2021/02/07/601d7274fdddfffc398b45e0.html] \n",
+        "VALUE": "Reliable"
     },
     "128": {
         "DATA": {
@@ -12766,9 +12638,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El fantástico hilo de Twitter que habla de \"LA NUEVA SEPA\" y que debería ser leído por todo aterrado \"tragacionista\"",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/el-fantastico-hilo-de-twitter-que-habla-de-la-nueva-sepa-y-que-deberia-ser-leido-por-todo-aterrado-tragacionista/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/el-fantastico-hilo-de-twitter-que-habla-de-la-nueva-sepa-y-que-deberia-ser-leido-por-todo-aterrado-tragacionista/] \n",
+        "VALUE": "Unreliable"
     },
     "129": {
         "DATA": {
@@ -12865,9 +12736,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Ayuso, sobre AstraZeneca: “No se puede cambiar de criterio, dar palos de ciego y crear inseguridad”",
-        "URLS": "Source[https://elpais.com/espana/madrid/2021-04-08/el-gobierno-de-madrid-se-opone-a-restringir-el-uso-de-la-vacuna-de-astrazeneca-a-menores-de-60-anos.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://elpais.com/espana/madrid/2021-04-08/el-gobierno-de-madrid-se-opone-a-restringir-el-uso-de-la-vacuna-de-astrazeneca-a-menores-de-60-anos.html] \n",
+        "VALUE": "Reliable"
     },
     "130": {
         "DATA": {
@@ -12964,9 +12834,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¡Grandísimo escándalo! La EMA ve vínculos entre AstraZeneca y los coágulos y trombosis pero dice que “el riesgo de mortalidad por COVID es mucho mayor que el riesgo de mortalidad por estos efectos secundarios”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/grandisimo-escandalo-la-ema-ve-vinculos-entre-astrazeneca-y-los-coagulos-y-trombosis-pero-dice-que-el-riesgo-de-mortalidad-por-covid-es-mucho-mayor-que-el-riesgo-de-mortalidad-por-estos-efect/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/grandisimo-escandalo-la-ema-ve-vinculos-entre-astrazeneca-y-los-coagulos-y-trombosis-pero-dice-que-el-riesgo-de-mortalidad-por-covid-es-mucho-mayor-que-el-riesgo-de-mortalidad-por-estos-efect/] \n",
+        "VALUE": "Unreliable"
     },
     "131": {
         "DATA": {
@@ -13063,9 +12932,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Consumir un diente de ajo a diario tiene beneficios?",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "132": {
         "DATA": {
@@ -13162,9 +13030,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Andalucía adelanta a este lunes la vacunación de mayores de 70 a 79 años",
-        "URLS": "Source[https://www.20minutos.es/noticia/4645615/0/andalucia-adelanta-este-lunes-vacunacion-mayores-70-79-anos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4645615/0/andalucia-adelanta-este-lunes-vacunacion-mayores-70-79-anos/] \n",
+        "VALUE": "Reliable"
     },
     "133": {
         "DATA": {
@@ -13261,9 +13128,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Todos los días pon un jabón por debajo de las sabanas, cuando sepas porque lo harás también",
-        "URLS": "Source[https://tudiario.net/todos-los-dias-pon-un-jabon-por-debajo-de-las-sabanas-cuando-sepas-porque-lo-haras-tambien/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://tudiario.net/todos-los-dias-pon-un-jabon-por-debajo-de-las-sabanas-cuando-sepas-porque-lo-haras-tambien/]\n",
+        "VALUE": "Unreliable"
     },
     "134": {
         "DATA": {
@@ -13360,9 +13226,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El ‘truco’ para adelgazar con esa taza de café que te tomas de vez en cuando",
-        "URLS": "Source[https://www.periodistadigital.com/magazine/gastronomia/dietas/20210219/truco-adelgazar-cafe-manana-noticia-689404440486/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/magazine/gastronomia/dietas/20210219/truco-adelgazar-cafe-manana-noticia-689404440486/]\n",
+        "VALUE": "Reliable"
     },
     "135": {
         "DATA": {
@@ -13459,9 +13324,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Lo País no deja de sorprendernos: Esta es su explicación para justificar la dramática situación sanitaria de Chile y no echar la culpa a la vacuna",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/lo-pais-no-deja-de-sorprendernos-esta-es-su-explicacion-para-justificar-la-dramatica-situacion-sanitaria-de-chile-para-no-echar-la-culpa-a-la-vacuna/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/lo-pais-no-deja-de-sorprendernos-esta-es-su-explicacion-para-justificar-la-dramatica-situacion-sanitaria-de-chile-para-no-echar-la-culpa-a-la-vacuna/]\n",
+        "VALUE": "Unreliable"
     },
     "136": {
         "DATA": {
@@ -13558,9 +13422,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Invima avaló que en Colombia se siga usando la vacuna de AstraZeneca",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/invima-avalo-que-en-colombia-se-siga-usando-la-vacuna-de-astrazeneca/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/invima-avalo-que-en-colombia-se-siga-usando-la-vacuna-de-astrazeneca/]\n",
+        "VALUE": "Reliable"
     },
     "137": {
         "DATA": {
@@ -13657,9 +13520,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Pánico en el Ejército de EEUU tras un brote de COVID-19 en un buque de guerra",
-        "URLS": "Source[https://www.periodistadigital.com/mundo/eeuu/20210129/panico-ejercito-eeuu-brote-covid-19-buque-guerra-noticia-689404424399/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.periodistadigital.com/mundo/eeuu/20210129/panico-ejercito-eeuu-brote-covid-19-buque-guerra-noticia-689404424399/]\n",
+        "VALUE": "Reliable"
     },
     "138": {
         "DATA": {
@@ -13756,9 +13618,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Colombia alcanza dos millones de dosis de la vacuna contra el coronavirus aplicadas",
-        "URLS": "Source[http://www.eje21.com.co/2021/03/colombia-alcanza-dos-millones-de-dosis-de-la-vacuna-contra-el-coronavirus-aplicadas/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/03/colombia-alcanza-dos-millones-de-dosis-de-la-vacuna-contra-el-coronavirus-aplicadas/] \n",
+        "VALUE": "Reliable"
     },
     "139": {
         "DATA": {
@@ -13855,9 +13716,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los ‘expertos’ pasan de las empresas farmacéuticas a la OMS y a las instituciones públicas, y a la inversa",
-        "URLS": "Source[https://mpr21.info/los-expertos-pasan-de-las-empresas-farmaceuticas-a-la-oms-y-a-las-instituciones-publicas-y-a-la-inversa/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/los-expertos-pasan-de-las-empresas-farmaceuticas-a-la-oms-y-a-las-instituciones-publicas-y-a-la-inversa/]\n",
+        "VALUE": "Unreliable"
     },
     "140": {
         "DATA": {
@@ -13954,9 +13814,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "AstraZeneca: Las recomendaciones para los sanitarios ante posibles síntomas de vacunados",
-        "URLS": "Source[https://okdiario.com/salud/recomendaciones-astrazeneca-sanitarios-posibles-sintomas-vacunados-7011057] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/recomendaciones-astrazeneca-sanitarios-posibles-sintomas-vacunados-7011057] \n",
+        "VALUE": "Reliable"
     },
     "141": {
         "DATA": {
@@ -14053,9 +13912,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Janssen (Johnson & Johnson) paraliza 15 millones de vacunas al mezclar erróneamente sus ingredientes en la fabricación",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/janssen-johnson-johnson-paraliza-15-millones-de-vacunas-al-mezclar-erroneamente-sus-ingredientes-en-la-fabricacion/] \n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/janssen-johnson-johnson-paraliza-15-millones-de-vacunas-al-mezclar-erroneamente-sus-ingredientes-en-la-fabricacion/] \n",
+        "VALUE": "Unreliable"
     },
     "142": {
         "DATA": {
@@ -14152,9 +14010,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El sello \"covid free\" y otros timos de la estampita",
-        "URLS": "Source[https://www.elmundo.es/ciencia-y-salud/salud/2020/05/24/5ec96ab1fc6c83ad5f8b45b4.html] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.elmundo.es/ciencia-y-salud/salud/2020/05/24/5ec96ab1fc6c83ad5f8b45b4.html] \n",
+        "VALUE": "Reliable"
     },
     "143": {
         "DATA": {
@@ -14251,9 +14108,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los médicos piden al Gobierno Sánchez que deje de arrastrar los pies y decrete el confinamiento domiciliario",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/20210112/medicos-piden-gobierno-sanchez-deje-arrastrar-pies-decrete-confinamiento-domiciliario-noticia-689404417360/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/20210112/medicos-piden-gobierno-sanchez-deje-arrastrar-pies-decrete-confinamiento-domiciliario-noticia-689404417360/]\n",
+        "VALUE": "Unreliable"
     },
     "144": {
         "DATA": {
@@ -14350,9 +14206,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Qué comer cuando se sufre algún trastorno mental?",
-        "URLS": "Source[https://okdiario.com/salud/que-comer-cuando-sufre-algun-trastorno-mental-7004123]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/que-comer-cuando-sufre-algun-trastorno-mental-7004123]\n",
+        "VALUE": "Reliable"
     },
     "145": {
         "DATA": {
@@ -14449,9 +14304,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "La nueva segregación: el ‘certificado covid’ es sólo el comienzo",
-        "URLS": "Source[https://mpr21.info/la-nueva-segregacion-el-certificado-covid-es-solo-el-comienzo/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://mpr21.info/la-nueva-segregacion-el-certificado-covid-es-solo-el-comienzo/]\n",
+        "VALUE": "Unreliable"
     },
     "146": {
         "DATA": {
@@ -14548,9 +14402,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Mintiendo y manipulando, así pretenden marcar los miserables medios de comunicación de España a las personas que decidan no vacunarse",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/mintiendo-y-manipulando-asi-pretenden-marcar-los-miserables-medios-de-comunicacion-de-espana-a-las-personas-que-decidan-no-vacunarse/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/mintiendo-y-manipulando-asi-pretenden-marcar-los-miserables-medios-de-comunicacion-de-espana-a-las-personas-que-decidan-no-vacunarse/]\n",
+        "VALUE": "Unreliable"
     },
     "147": {
         "DATA": {
@@ -14647,9 +14500,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Alertan de una peor atención a la tuberculosis por la pandemia",
-        "URLS": "Source[https://okdiario.com/salud/alertan-peor-atencion-tuberculosis-pandemia-7002065]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/alertan-peor-atencion-tuberculosis-pandemia-7002065]\n",
+        "VALUE": "Reliable"
     },
     "148": {
         "DATA": {
@@ -14746,9 +14598,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Si en vez de convocar al akelarre feminista del 8-M, Sánchez hubiera confinado, se habrían salvado 20.000 españoles",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/20210220/lugar-convocar-akelarre-feminista-8-m-hubiera-confinado-habrian-salvado-20-000-espanoles-noticia-689404440956/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/20210220/lugar-convocar-akelarre-feminista-8-m-hubiera-confinado-habrian-salvado-20-000-espanoles-noticia-689404440956/]\n",
+        "VALUE": "Unreliable"
     },
     "149": {
         "DATA": {
@@ -14845,9 +14696,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Letizia alerta de que la atención al cáncer es más urgente que nunca",
-        "URLS": "Source[https://www.lavanguardia.com/vida/salud/20210204/6222340/letizia-cancer-pandemia.html]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.lavanguardia.com/vida/salud/20210204/6222340/letizia-cancer-pandemia.html]\n",
+        "VALUE": "Reliable"
     },
     "150": {
         "DATA": {
@@ -14944,9 +14794,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "",
-        "URLS": "Source[https://www.periodistadigital.com/periodismo/20210124/especial-quilombo-sirven-confinamientos-ademas-arruinar-espanoles-video-689404422141/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/periodismo/20210124/especial-quilombo-sirven-confinamientos-ademas-arruinar-espanoles-video-689404422141/]\n",
+        "VALUE": "Unreliable"
     },
     "151": {
         "DATA": {
@@ -15043,9 +14892,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El listillo Alberto Garzón duda de la evidencia científica a favor de las mascarillas FFP2",
-        "URLS": "Source[https://www.periodistadigital.com/politica/gobierno/20210208/listillo-alberto-garzon-duda-evidencia-cientifica-favor-mascarillas-ffp2-noticia-689404427861/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/politica/gobierno/20210208/listillo-alberto-garzon-duda-evidencia-cientifica-favor-mascarillas-ffp2-noticia-689404427861/]\n",
+        "VALUE": "Unreliable"
     },
     "152": {
         "DATA": {
@@ -15142,9 +14990,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Un sacerdote le quita a sus feligreses la mascarilla: “Quítense esta babosada, mi..da, ¿ve?”",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/un-sacerdote-les-quita-a-sus-feligreses-la-mascarilla-quitense-esta-babosada-mi-da-ve/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/un-sacerdote-les-quita-a-sus-feligreses-la-mascarilla-quitense-esta-babosada-mi-da-ve/]\n",
+        "VALUE": "Unreliable"
     },
     "153": {
         "DATA": {
@@ -15241,9 +15088,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Un año de coronavirus: 100.000 muertos, 5 millones de españoles sin empleo y Sánchez disfrutando",
-        "URLS": "Source[https://www.periodistadigital.com/politica/opinion/20210307/ano-coronavirus-100-000-muertos-5-millones-espanoles-sanchez-disfrutando-noticia-689404446842/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/politica/opinion/20210307/ano-coronavirus-100-000-muertos-5-millones-espanoles-sanchez-disfrutando-noticia-689404446842/]\n",
+        "VALUE": "Unreliable"
     },
     "154": {
         "DATA": {
@@ -15340,9 +15186,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Vuelven a exigir la prueba PCR negativa a viajeros internacionales",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/vuelven-a-exigir-la-prueba-pcr-negativa-a-viajeros-internacionales/]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/vuelven-a-exigir-la-prueba-pcr-negativa-a-viajeros-internacionales/]\n",
+        "VALUE": "Reliable"
     },
     "155": {
         "DATA": {
@@ -15439,9 +15284,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Detienen a un anciano de 92 años en Reino Unido por no llevar mascarilla",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/detienen-a-un-anciano-de-92-anos-en-reino-unido-por-no-llevar-mascarilla/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/detienen-a-un-anciano-de-92-anos-en-reino-unido-por-no-llevar-mascarilla/]\n",
+        "VALUE": "Unreliable"
     },
     "156": {
         "DATA": {
@@ -15538,9 +15382,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El machismo del Presidente de la Diputación de Lugo (PSOE) denigrando a una diputada del PP por su forma de vestir",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/el-machismo-del-presidente-de-la-diputacion-de-lugo-psoe-denigrando-a-una-diputada-del-pp-por-su-forma-de-vestir/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/el-machismo-del-presidente-de-la-diputacion-de-lugo-psoe-denigrando-a-una-diputada-del-pp-por-su-forma-de-vestir/]\n",
+        "VALUE": "Unreliable"
     },
     "157": {
         "DATA": {
@@ -15637,9 +15480,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Así se prepara el relato para una “supuesta cuarta ola” que nos lleve a perder más libertades y a justificar la ampliación del estado de alarma",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/asi-se-prepara-el-relato-para-una-supuesta-cuarta-ola-que-nos-lleve-a-perder-mas-libertades-y-a-justificar-la-ampliacion-del-estado-de-alarma/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/asi-se-prepara-el-relato-para-una-supuesta-cuarta-ola-que-nos-lleve-a-perder-mas-libertades-y-a-justificar-la-ampliacion-del-estado-de-alarma/]\n",
+        "VALUE": "Unreliable"
     },
     "158": {
         "DATA": {
@@ -15736,9 +15578,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Hisopos de piel podrían ser las nuevas pruebas para coronavirus",
-        "URLS": "Source[https://okdiario.com/salud/hisopos-piel-podrian-ser-nuevas-pruebas-coronavirus-7034557]\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/hisopos-piel-podrian-ser-nuevas-pruebas-coronavirus-7034557]\n",
+        "VALUE": "Reliable"
     },
     "159": {
         "DATA": {
@@ -15835,9 +15676,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El nuevo síntoma del coronavirus descubierto en Reino Unido: la ‘lengua COVID’",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/20210121/nuevo-sintoma-coronavirus-descubierto-reino-unido-lengua-covid-noticia-689404421206/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/20210121/nuevo-sintoma-coronavirus-descubierto-reino-unido-lengua-covid-noticia-689404421206/] \n",
+        "VALUE": "Unreliable"
     },
     "160": {
         "DATA": {
@@ -15934,9 +15774,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Desarrollan un antiviral basado en un organismo marino hallado en Ibiza que podría curar el coronavirus",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "161": {
         "DATA": {
@@ -16033,9 +15872,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "¿Es posible rechazar la vacuna de AstraZeneca y optar por otra?",
-        "URLS": "Source[https://okdiario.com/salud/posible-rechazar-vacuna-astrazeneca-optar-otra-7005558] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://okdiario.com/salud/posible-rechazar-vacuna-astrazeneca-optar-otra-7005558] \n",
+        "VALUE": "Reliable"
     },
     "162": {
         "DATA": {
@@ -16132,9 +15970,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Agencia de Medicamentos encuentra relación entre vacuna COVID de AstraZeneca y coágulos",
-        "URLS": "Source[http://www.eje21.com.co/2021/04/agencia-europea-de-medicamentos-encuentra-relacion-entre-vacuna-covid-de-astrazeneca-y-coagulos/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[http://www.eje21.com.co/2021/04/agencia-europea-de-medicamentos-encuentra-relacion-entre-vacuna-covid-de-astrazeneca-y-coagulos/] \n",
+        "VALUE": "Unreliable"
     },
     "163": {
         "DATA": {
@@ -16231,9 +16068,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Este domingo se cumple un año de que Simón vaticinase: «España no va a tener, como mucho, algún caso»",
-        "URLS": "Source[https://www.periodistadigital.com/ciencia/salud/20210130/coronavirus-domingo-experto-curiosidades-cumple-ano-simon-vaticinase-espana-caso-noticia-689404424471/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.periodistadigital.com/ciencia/salud/20210130/coronavirus-domingo-experto-curiosidades-cumple-ano-simon-vaticinase-espana-caso-noticia-689404424471/]\n",
+        "VALUE": "Unreliable"
     },
     "164": {
         "DATA": {
@@ -16330,9 +16166,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Médicos advierten de que el dióxido de cloro pone en peligro a pacientes COVID",
-        "URLS": "<BREAK>\n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "<BREAK>\n",
+        "VALUE": "Reliable"
     },
     "165": {
         "DATA": {
@@ -16429,9 +16264,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Así actúa la gente de derechas cuando la izquierda va a sus barrios",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/asi-actua-la-gente-de-derechas-cuando-la-izquierda-va-a-sus-barrios/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/asi-actua-la-gente-de-derechas-cuando-la-izquierda-va-a-sus-barrios/]\n",
+        "VALUE": "Unreliable"
     },
     "166": {
         "DATA": {
@@ -16528,9 +16362,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "El 81% de los mayores de 80 años ya tienen la primera dosis de la vacuna contra el coronavirus en Cataluña",
-        "URLS": "Source[https://www.20minutos.es/noticia/4649816/0/81-por-ciento-mayores-80-anos-tienen-primera-dosis-vacuna-coronavirus-cataluna/] \n",
-        "VALUE_ALBA": "Reliable",
-        "VALUE_ACUERDO": "Reliable"
+        "URL": "Source[https://www.20minutos.es/noticia/4649816/0/81-por-ciento-mayores-80-anos-tienen-primera-dosis-vacuna-coronavirus-cataluna/] \n",
+        "VALUE": "Reliable"
     },
     "167": {
         "DATA": {
@@ -16627,9 +16460,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Los “verificadores” de Facebook censuraron una publicación en la que una mujer de 25 años denunciaba los efectos secundarios que estaba sufriendo por la vacuna, a la semana siguiente falleció",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/los-verificadores-de-facebook-censuraron-una-publicacion-en-la-que-una-mujer-de-25-anos-denunciaba-los-efectos-secundarios-que-estaba-sufriendo-por-la-vacuna-a-la-semana-siguiente-fallecio/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/los-verificadores-de-facebook-censuraron-una-publicacion-en-la-que-una-mujer-de-25-anos-denunciaba-los-efectos-secundarios-que-estaba-sufriendo-por-la-vacuna-a-la-semana-siguiente-fallecio/]\n",
+        "VALUE": "Unreliable"
     },
     "168": {
         "DATA": {
@@ -16726,9 +16558,8 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Varias mujeres cuentan los efectos secundarios que están sufriendo tras inyectarse la vacuna de Johnson & Johnson, que pretende aprobar ahora la UE",
-        "URLS": "Source[https://www.eldiestro.es/2021/04/varias-mujeres-cuentan-los-efectos-secundarios-que-estan-sufriendo-tras-inyectarse-la-vacuna-de-johnson-johnson-que-pretende-aprobar-ahora-la-ue/]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://www.eldiestro.es/2021/04/varias-mujeres-cuentan-los-efectos-secundarios-que-estan-sufriendo-tras-inyectarse-la-vacuna-de-johnson-johnson-que-pretende-aprobar-ahora-la-ue/]\n",
+        "VALUE": "Unreliable"
     },
     "169": {
         "DATA": {
@@ -16825,8 +16656,7 @@
             "HAS_QUOTE": 0
         },
         "TITLE": "Descubre el seitán y sus buenas propiedades",
-        "URLS": "Source[https://okdiario.com/salud/descubre-seitan-sus-buenas-propiedades-7030088]\n",
-        "VALUE_ALBA": "Unreliable",
-        "VALUE_ACUERDO": "Unreliable"
+        "URL": "Source[https://okdiario.com/salud/descubre-seitan-sus-buenas-propiedades-7030088]\n",
+        "VALUE": "Unreliable"
     }
 }
